@@ -1,0 +1,2 @@
+# OMF-Automation-Testing-Abongile-Maso
+Selenium Assessment This solution is based on the Old Mutual – OMF Automation Testing Technical Assessment which instructed me to test the functionality of website (https://www.oldmutualfinance.co.za/)I have used Java, Selenium, Maven and TestNG. To run the tests simply right click the testng.xml file in the project structure and click "Run testng.xml", ensure testing is installed and included as a plugin. Thank you for the opportunity  OMF Automation Testing Technical
