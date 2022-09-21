@@ -8,9 +8,9 @@
 	</classpathentry>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
 		<attributes>
+			<attribute name="test" value="true"/>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="test" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
@@ -23,6 +23,10 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/x463528/Downloads/jar_files/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/x463528/Downloads/jar_files/jquery-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/x463528/Downloads/jar_files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/x463528/Downloads/jar_files/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/x463528/Downloads/jar_files/testng-7.6.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
